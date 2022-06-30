@@ -4,6 +4,7 @@ Tengo 34 años
 
 Mi esposa es Ivon y mi hijo Ezequiel
 
+<<<<<<< HEAD
 Mi madre se llama Mercedes
 
 Tuve una mascota llamada cosi
@@ -25,3 +26,5 @@ estudiar
 Meditacion y mindfulness
 
 Hoy voy a trabajar con datos
+=======
+>>>>>>> 02a105d (menos info)
