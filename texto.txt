@@ -27,6 +27,7 @@ Meditacion y mindfulness
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hoy voy a trabajar con datos
 =======
 >>>>>>> 02a105d (menos info)
@@ -36,3 +37,8 @@ Hoy voy a trabajar con datos
 =======
 Hoy voy a trabajar con datos
 >>>>>>> 6de2bed (tarea hoy)
+=======
+Hoy voy a trabajar con datos
+=======
+>>>>>>> 02a105d (menos info)
+>>>>>>> d0d3be7 (cherry add)
