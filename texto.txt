@@ -23,3 +23,5 @@ Siempre
 estudiar
 
 Meditacion y mindfulness
+
+Hoy voy a trabajar con datos
