@@ -25,6 +25,10 @@ estudiar
 
 Meditacion y mindfulness
 
+<<<<<<< HEAD
 Hoy voy a trabajar con datos
 =======
 >>>>>>> 02a105d (menos info)
+=======
+Hoy voy a trabajar con datos
+>>>>>>> 6de2bed (tarea hoy)
